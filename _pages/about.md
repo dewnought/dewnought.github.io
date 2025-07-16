@@ -8,6 +8,6 @@ redirect_from:
 ---
 I am an undergraduate physics student at the University of the Philippines Baguio, [Department of Physical Sciences](https://www.upb.edu.ph/department-of-physical-sciences/). I'm currently a research apprentice at the Plasma Science and Technology Research Group, though my academic interests are currently in astrophysics and cosmology.
 
-Get in touch
+Get in Touch
 ======
-"drgonzales2@up.edu.ph"
+drgonzales2@up.edu.ph
