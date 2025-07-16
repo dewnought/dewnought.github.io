@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate physics student at the University of the Philippines Baguio, [Department of Physical Sciences](https://www.upb.edu.ph/department-of-physical-sciences/). I'm currently a research apprentice with the Plasama Science and Technology Research Group, though my academic interests are currently in astrophysics and cosmology.
+I am an undergraduate physics student at the University of the Philippines Baguio, [Department of Physical Sciences](https://www.upb.edu.ph/department-of-physical-sciences/). I'm currently a research apprentice at the Plasma Science and Technology Research Group, though my academic interests are currently in astrophysics and cosmology.
 
 Get in touch
 ======
