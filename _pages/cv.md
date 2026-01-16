@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Access my Curriculum Vitae [Here]().
+Access my Curriculum Vitae [Here](GONZALES_CV-updated-jan-2026.pdf) (updated 01-2026).
 
 
 Education
